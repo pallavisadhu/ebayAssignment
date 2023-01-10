@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<testng-results ignored="0" total="1" passed="1" failed="0" skipped="0">
+  <reporter-output>
+  </reporter-output>
+  <suite started-at="2023-01-09T17:59:45 CST" name="Suite" finished-at="2023-01-09T17:59:47 CST" duration-ms="1765">
+    <groups>
+    </groups>
+    <test started-at="2023-01-09T17:59:45 CST" name="Test" finished-at="2023-01-09T17:59:47 CST" duration-ms="1765">
+      <class name="tests.WatchPageTest">
+        <test-method is-config="true" signature="intialize()[pri:0, instance:tests.WatchPageTest@4b013c76]" started-at="2023-01-09T17:59:34 CST" name="intialize" finished-at="2023-01-09T17:59:45 CST" duration-ms="11317" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- intialize -->
+        <test-method is-config="true" signature="printBeforeTest()[pri:0, instance:tests.WatchPageTest@4b013c76]" started-at="2023-01-09T17:59:45 CST" name="printBeforeTest" finished-at="2023-01-09T17:59:45 CST" duration-ms="1" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printBeforeTest -->
+        <test-method is-config="true" signature="init()[pri:0, instance:tests.WatchPageTest@4b013c76]" started-at="2023-01-09T17:59:45 CST" name="init" finished-at="2023-01-09T17:59:45 CST" duration-ms="58" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- init -->
+        <test-method signature="verifyCategories()[pri:0, instance:tests.WatchPageTest@4b013c76]" started-at="2023-01-09T17:59:45 CST" name="verifyCategories" finished-at="2023-01-09T17:59:46 CST" duration-ms="911" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- verifyCategories -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.WatchPageTest@4b013c76]" started-at="2023-01-09T17:59:46 CST" name="tearDown" finished-at="2023-01-09T17:59:47 CST" duration-ms="708" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+        <test-method is-config="true" signature="printAfterTest()[pri:0, instance:tests.WatchPageTest@4b013c76]" started-at="2023-01-09T17:59:47 CST" name="printAfterTest" finished-at="2023-01-09T17:59:47 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- printAfterTest -->
+        <test-method is-config="true" signature="tearDown()[pri:0, instance:tests.WatchPageTest@4b013c76]" started-at="2023-01-09T17:59:47 CST" name="tearDown" finished-at="2023-01-09T17:59:47 CST" duration-ms="0" status="PASS">
+          <reporter-output>
+          </reporter-output>
+        </test-method> <!-- tearDown -->
+      </class> <!-- tests.WatchPageTest -->
+    </test> <!-- Test -->
+  </suite> <!-- Suite -->
+</testng-results>
